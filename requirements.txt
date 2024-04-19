@@ -1,0 +1,10 @@
+altgraph==0.17.4
+mysql-replication==1.0.8
+packaging==24.0
+pefile==2023.2.7
+pyinstaller==6.6.0
+pyinstaller-hooks-contrib==2024.4
+PyMySQL==1.1.0
+pytz==2024.1
+pywin32-ctypes==0.2.2
+setuptools==69.5.1
